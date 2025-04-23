@@ -27,8 +27,7 @@ Explore some of my projects that demonstrate my technical and cybersecurity expe
   ### 💾 **Project Beta: Traffic Analyser**
 - **Description**: 
 - **Skills Used**: 
-- [View Project on GitHub](link-to-project-repo)
-
+- [View Project on GitHub]((https://github.com/arthur8-source/Wireshark-Network-Analysis.git))]
 ### 🛡️ **Project Gamma: SSL Cert Checker**
 - **Description**: 
 - **Skills Used**: 
