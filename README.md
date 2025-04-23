@@ -1,9 +1,9 @@
 # Bernard-Arthur-Portfolio
-# 🌟 Welcome to My Cybersecurity & IT Portfolio! 🔐
+#  Welcome to My Cybersecurity & IT Portfolio! 🔐
 
 Hi there! I'm an experienced **Help Desk Technical Support Officer** turned **cybersecurity professional**, and I’m on a mission to safeguard digital landscapes. With a combination of hands-on experience and industry-recognized certifications, I specialize in tackling technical challenges and securing systems against emerging threats.
 
-## 🎯 About Me
+##  About Me
 
 With a background as a **Help Desk Technical Support Officer**, I bring robust technical expertise to the table. I’ve resolved complex IT issues and ensured smooth operations for organizations, specializing in tools like **Azure**, **Intune**, **Exchange**, and **Entra ID**. My journey into cybersecurity is fueled by a desire to protect systems and data, and my industry credentials speak to my dedication:
 
