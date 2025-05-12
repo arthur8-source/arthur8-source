@@ -2,7 +2,7 @@
 # Bernard-Arthur-Portfolio
 
 
-🎯 Cybersecurity Analyst | Threat Hunter | Cloud Security | Governance & Compliance  
+Cybersecurity Analyst | Threat Hunter | Cloud Security | Governance & Compliance  
 💼 Security+ | IBM & Google Cybersecurity |  AZ-104 in progress
 ---
 
