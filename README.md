@@ -17,12 +17,12 @@ I specialize in detecting and preventing social engineering attacks, financial f
 | 🔍 Project | 🔐 Focus | 📄 Highlights |
 |-----------|----------|---------------|
 | [**MTN MoMo Vishing Case Study**](https://github.com/arthur8-source/Momo-case-study.git)| Social Engineering, Insider Threat, Compliance | Real-world vishing scenarios| Insider threats
-| [**SOC Analyst Hands-on Lab**](https://github.com/arthur8-source/SOC-Analyst-Hands-on-Lab.git) | Threat Simulation, Detection & Response | Adversary emulation (ransomware)| Detection rule creation
+| [**SOC Analyst Hands-on Lab**](https://github.com/arthur8-source/SOC-Analayst-Hands-on-Lab.git) | Threat Simulation, Detection & Response | Adversary emulation (ransomware)| Detection rule creation
 | [**Wireshark Network Analysis**](https://github.com/arthur8-source/Wireshark-Network-Analysis) | Packet Forensics | PCAP analysis, malware detection, suspicious traffic hunting |
 | [**Conduct Security Audit**](https://github.com/arthur8-source/Conduct-Security-Audit) | System Hardening, Audit Trails | Endpoint audit, misconfiguration detection, risk reporting 
   
-
-
+[
+](https://github.com/arthur8-source/SOC-Analayst-Hands-on-Lab.git)
 
 ## 🧠 Skills & Tools
  
@@ -47,7 +47,7 @@ I thrive on solving problems with analytical precision and persistence, and I’
 ## 📫 Let’s Connect
 
 - **Email**: _Bernnardarthur@gmail.com  
-- **GitHub**: [github.com/YOUR-USERNAME](https://github.com/arthur8-source)  
+- **GitHub**: [(https://github.com/arthur8-source)](https://github.com/arthur8-source)  
 - **LinkedIn**: [linkedin.com/in/bernardarthur](https://linkedin.com/in/YOUR-LINKEDIN) *(optional)*  
 
 ---
