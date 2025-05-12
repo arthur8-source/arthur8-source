@@ -20,9 +20,10 @@ I specialize in detecting and preventing social engineering attacks, financial f
 | 🔍 Project | 🔐 Focus | 📄 Highlights |
 |-----------|----------|---------------|
 | [**MTN MoMo Vishing Case Study**](https://github.com/arthur8-source/Momo-case-study.git)| Social Engineering, Insider Threat, Compliance | Real-world vishing scenarios| Insider threats
+| [**SOC Analyst Hands-on Lab**](https://github.com/arthur8-source/SOC-Analyst-Hands-on-Lab.git) | Threat Simulation, Detection & Response | Adversary emulation (ransomware)| Detection rule creation
 | [**Wireshark Network Analysis**](https://github.com/arthur8-source/Wireshark-Network-Analysis) | Packet Forensics | PCAP analysis, malware detection, suspicious traffic hunting |
 | [**Conduct Security Audit**](https://github.com/arthur8-source/Conduct-Security-Audit) | System Hardening, Audit Trails | Endpoint audit, misconfiguration detection, risk reporting 
-| [**SOC Analyst Hands-on Lab**](https://github.com/arthur8-source/SOC-Analyst-Hands-on-Lab) | Threat Simulation, Detection & Response | Adversary emulation (ransomware)| Detection rule creation  
+  
 
 
 
