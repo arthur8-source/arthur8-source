@@ -1,10 +1,9 @@
 # 🌟 Welcome to My Cybersecurity & IT Portfolio! 🔐
 # Bernard-Arthur-Portfolio
-# 👋 Hi, I'm Bernard Arthur
+
 
 🎯 Cybersecurity Analyst | Threat Hunter | Cloud Security | Governance & Compliance  
-💼 Security+ | AZ-104 | IBM & Google Cybersecurity | Africa-focused Cyber Defense  
-
+💼 Security+ | IBM & Google Cybersecurity |  AZ-104 in progress
 ---
 
 ## 🔎 About Me
