@@ -48,7 +48,7 @@ I thrive on solving problems with analytical precision and persistence, and I’
 
 - **Email**: _Bernnardarthur@gmail.com  
 - **GitHub**: [(https://github.com/arthur8-source)](https://github.com/arthur8-source)  
-- **LinkedIn**: [linkedin.com/in/bernardarthur]([https://linkedin.com/in/Bernard-Arthur/](https://www.linkedin.com/in/bernard-arthur-45b699286?trk=people-guest_people_search-card) *(optional)*  
+- **LinkedIn**:([https://linkedin.com/in/Bernard-Arthur/](https://www.linkedin.com/in/bernard-arthur-45b699286?trk=people-guest_people_search-card)  
 
 ---
 
