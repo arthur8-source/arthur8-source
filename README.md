@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Cybersecurity & IT Portfolio! 🔐
+#  Welcome to My Cybersecurity & IT Portfolio! 
 # Bernard-Arthur-Portfolio
 
 ---
@@ -27,10 +27,10 @@ I specialize in detecting and preventing social engineering attacks, financial f
 ## 🧠 Skills & Tools
  
 - **Threat Analysis** – SIEM, OSINT, Packet Capture (PCAP), Indicators of Compromise  
-- **Compliance & Audit** – GDPR, Data Protection Act (Ghana), Payment Systems Act  
+- **Compliance & Audit** – GDPR, Data Protection Act (Ghana), Payment Systems Act,NIST 
 - **Cloud Security** – Microsoft Azure, Identity Management, M365 Defender  
 - **Reporting** – Markdown, GitHub Pages, Executive Summaries, PDF Reports  
-- **Tools** – Wireshark, Splunk, Nessus, Metasploit, Nmap, Burp Suite
+- **Tools** – Wireshark, Splunk, Nessus, Metasploit, Nmap, Burp Suite,Python
 - **Continous learning** - Always ready to learn something new 
 
 ---
